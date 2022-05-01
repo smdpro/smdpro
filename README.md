@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 #### :call_me_hand: Contact Me
 <samp>
   
-[__Twitter__](https://twitter.com/smdpro) | [__Email__](mailto:samad60@gmail.com) | [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
+[__Twitter__](https://twitter.com/smdprox) | [__Email__](mailto:samad60@gmail.com) | [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
   
 </samp>
