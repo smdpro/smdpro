@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Samad Rahimi, A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies: Node.js, Python, TypeScript, ASP.NET Core, C#, ... in no particular order. I love exploring new technologies and playing around with them.
 
-[__Logical Ability [Alva]__](https://github.com/smdpro/repo/blob/main/Alva_Labs-Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/repo/blob/main/Alva_Labs_Personality_test.pdf) 
+[__Logical Ability [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Personality_test.pdf) 
 <!--
 **smdpro/smdpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
