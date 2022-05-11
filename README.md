@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
   
 </samp>
-![Visits](https://badges.pufler.dev/visits/ssbostan/ssbostan)
-![Repos](https://badges.pufler.dev/repos/ssbostan)
-![Gists](https://badges.pufler.dev/gists/ssbostan)
+![Visits](https://badges.pufler.dev/visits/smdpro/smdpro)
+![Repos](https://badges.pufler.dev/repos/smdpro)
+![Gists](https://badges.pufler.dev/gists/smdpro)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=smdpro&include_all_commits=true&theme=merko)
