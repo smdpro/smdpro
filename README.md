@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Samad Rahimi, A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies: Node.js, Python, TypeScript, ASP.NET Core, C#, ... in no particular order. I love exploring new technologies and playing around with them.
+I'm Samad Rahimi, A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies
 
 [__Logical Ability [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Personality_test.pdf) 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### :call_me_hand: Contact Me
+
 <samp>
   
  [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
