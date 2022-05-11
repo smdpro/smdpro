@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
   
 </samp>
+
 ![Visits](https://badges.pufler.dev/visits/smdpro/smdpro)
 ![Repos](https://badges.pufler.dev/repos/smdpro)
 ![Gists](https://badges.pufler.dev/gists/smdpro)
