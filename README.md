@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 #### :call_me_hand: Contact Me
 <samp>
   
- [__Email__](mailto:samad60@gmail.com) | [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
+ [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
   
 </samp>
+![Visits](https://badges.pufler.dev/visits/ssbostan/ssbostan)
+![Repos](https://badges.pufler.dev/repos/ssbostan)
+![Gists](https://badges.pufler.dev/gists/ssbostan)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=smdpro&include_all_commits=true&theme=merko)
