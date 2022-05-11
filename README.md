@@ -22,3 +22,5 @@ Here are some ideas to get you started:
  [__Email__](mailto:samad60@gmail.com) | [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
   
 </samp>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=smdpro&include_all_commits=true&theme=merko)
