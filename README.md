@@ -1,30 +1,17 @@
 ### Hi there 👋
+
 I'm Samad Rahimi, A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies
+(available for a remote job)
 
-[__Logical Ability [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Personality_test.pdf) 
-<!--
-**smdpro/smdpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-samad60@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:samad60@gmail.com)](mailto:samad60@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-smdpro-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iman-ghafoori/)](https://linkedin.com/in/smdpro/)
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=left> <img src=https://komarev.com/ghpvc/?username=smdpro alt=smdpro /> 
+</p>
 
-<samp>
-  
- [__CodeSignal__](https://app.codesignal.com/profile/smdpro) | [__LinkedIn__](https://www.linkedin.com/in/smdpro/)
-  
-</samp>
+[![github stats](https://github-readme-stats.vercel.app/api?username=smdpro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smdpro&layout=compact)](https://github.com/smdpro/github-readme-stats)
 
-![Visits](https://badges.pufler.dev/visits/smdpro/smdpro)
-![Repos](https://badges.pufler.dev/repos/smdpro)
-![Gists](https://badges.pufler.dev/gists/smdpro)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=smdpro&include_all_commits=true&theme=merko)
+<!-- [__Logical Ability [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Personality_test.pdf)  -->
