@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samad Rahimi, A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies
+A remote full-stack web developer, Skilled in developing Web Applications. Passionate about the new technologies
 (available for a remote job)
 
 [![Gmail Badge](https://img.shields.io/badge/-samad60@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:samad60@gmail.com)](mailto:samad60@gmail.com)
