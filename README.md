@@ -17,5 +17,6 @@ A remote full-stack web developer, Skilled in developing Web Applications. Passi
 <!-- [__Logical Ability [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Logical_ability.pdf)  |  [__Personality Test [Alva]__](https://github.com/smdpro/smdpro/blob/main/Alva_Labs_Personality_test.pdf)  -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smdpro&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smdpro&theme=apprentice)
 
 
